@@ -1,0 +1,23 @@
+{
+  "name": "match-like-gulp",
+  "version": "0.0.1",
+  "description": "Check a string matches glob or not like Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./test/test.js"
+  },
+  "keywords": [
+    "match",
+    "gulp",
+    "glob"
+  ],
+  "author": "lingyucoder",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "~3.3.0",
+    "mocha": "~2.3.3"
+  },
+  "dependencies": {
+    "minimatch": "~3.0.0"
+  }
+}
