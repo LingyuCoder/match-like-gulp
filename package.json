@@ -22,5 +22,16 @@
   },
   "dependencies": {
     "minimatch": "~3.0.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LingyuCoder/match-like-gulp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LingyuCoder/match-like-gulp/issues"
+  },
+  "homepage": "https://github.com/LingyuCoder/match-like-gulp#readme"
 }
